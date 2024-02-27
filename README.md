@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aelienne 27 years old
+- 👋 Hi, I’m @Aelienne, 27 years old
 - 👀 I’m interested in many things like sports, digital art and video games
 - 🌱 The languages i know - HTML, CSS, SASS, JS, PHP, SQL and i’m currently learning new languages
 - 🌱 The Technologies/Tools i know - Angular, Symfony, Linux, MySQL, Bootstrap, Figma, WordPress
