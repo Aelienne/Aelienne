@@ -2,7 +2,6 @@
 - 👀 I’m interested in many things like sports, digital art and video games
 - 🌱 The languages i know - HTML, CSS, JS, PHP, SQL and i’m currently learning new languages
 - 🌱 The Technologies/Tools i know - Angular, Symfony, Linux, Figma, WordPress
-- 💞️ I’m looking to collaborate on ...
 - 📫 My email : Florian.bynens@outlook.fr   My Discord : flowxflow
 
 
